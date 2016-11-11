@@ -1,0 +1,3 @@
+[submodule "DvdEJB"]
+	path = DvdEJB
+	url = https://github.com/imagetudiant/ProjetTest
